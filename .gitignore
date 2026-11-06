@@ -25,6 +25,7 @@ wheels/
 *.egg-info
 
 *.md
+LICENSE
 
 # Profiling
 chrome-profiler-events*.json
